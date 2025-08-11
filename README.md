@@ -1,7 +1,7 @@
 # Hi there, I'm Konda Sudhakar Reddy
 
 • Tech-People-Business Driven Individual  
-• Aspiring Data Scientist & Full Stack Developer  
+• Aspiring Data Scientist & Front-End Developer  
 • Passionate about turning ideas into smart, usable solutions
 
 ---
