@@ -36,10 +36,10 @@
 
 ## Projects
 
-• Data Analysis on Sales Dataset  
+• Data Analysis on Population Dataset  
   • Conducted EDA using Pandas, Matplotlib, and Seaborn  
-  • Highlighted seasonal trends and top-performing products  
-  • Cleaned and visualised real-world sales data
+  • Highlighted  trends and highest populated countries  
+  • Cleaned and visualised real-world data
 
 • Student Performance Prediction  
   • Built a regression model using scikit-learn  
