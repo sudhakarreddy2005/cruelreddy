@@ -73,14 +73,7 @@
 
 • Email: sudhakarreddy30102005@gmail.com  
 • LinkedIn: https://www.linkedin.com/in/sudhakar-reddy-konda-769320299  
-• GitHub: https://github.com/cruelreddy
-
----
-
-## GitHub Stats
-
-• ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cruelreddy&show_icons=true&theme=github_dark)  
-• ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cruelreddy&layout=compact&theme=github_dark)
+• GitHub: https://github.com/sudhakarreddy2005
 
 ---
 
